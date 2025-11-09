@@ -202,8 +202,8 @@ const massab = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massab-khan-backendengineer/)
-[![Website](https://img.shields.io/badge/Website-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://horizondigital.pk/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@horizondigital.pk)
+[![Website](https://img.shields.io/badge/Website-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khanmassab.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massab725@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khanmassab)
 
 </div>
