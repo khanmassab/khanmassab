@@ -1,98 +1,118 @@
-<!--  Futuristic GitHub Profile README for Massab Khan  -->
+<!-- 💫 Massab Khan — Futuristic GitHub Profile README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF5FC&size=30&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Massab+Khan!;🚀+Tech+Lead+@+Horizon+Digital;💡+Laravel+%7C+Go+%7C+NodeJS+%7C+AWS;⚙️+Building+Scalable+Backend+Ecosystems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Massab+Khan;🚀+Tech+Lead+%40+Horizon+Digital;💡+Backend+Engineer+%7C+Laravel+%7C+Go+%7C+NodeJS;⚙️+Architecting+Scalable+Systems+in+the+Future" />
 </h1>
 
 ---
 
-### 🧠 About Me  
-I’m **Massab Khan**, a **Tech Lead @ Horizon Digital** with a Master’s in Computer Science and a deep focus on backend and full-stack ecosystems.  
-My experience spans **Laravel, NodeJS (Express), Go, Vue.js, MySQL, AWS, Jenkins, CI/CD Pipelines, and Bash scripting**.  
+### 🧠 About Me
+Hi there! I'm **Massab Khan**, a **Tech Lead @ Horizon Digital** with a **Master’s in Computer Science** and deep expertise in **Laravel, Go, NodeJS, Express, Vue.js, MySQL, AWS, Jenkins, Docker, and CI/CD pipelines**.
 
-I specialize in:
-- Architecting scalable backend infrastructures.  
-- Building secure REST APIs and microservices.  
-- Leading cross-functional developer teams.  
-- Automating cloud deployments (AWS, Docker, Jenkins).  
-- Writing clean, maintainable, and production-grade code.  
+I’m passionate about:
+- 🧩 Building **scalable backend ecosystems**
+- ☁️ Automating **cloud deployments**
+- 🔐 Designing **secure, high-performance APIs**
+- 🤖 Experimenting with **AI agentic systems** and automation
 
-> “Code simplicity and system scalability aren’t opposites — they’re dance partners.”  
-> — *Massab Khan*
+> “Code simplicity and system scalability aren’t opposites — they’re the rhythm and melody of modern engineering.”
 
 ---
 
-### 💼 Professional Journey  
+### 💼 Experience
 
-#### 🚀 Tech Lead — Horizon Digital (Pakistan & Australia) `2025 – Present`  
-Leading AI-powered product teams; delivering backend excellence through Laravel, NodeJS, and Go microservices.
+#### 🛰️ **Technical Team Lead** — *Horizon Digital* 🇵🇰 🇦🇺  
+*May 2025 – Present | Hybrid (Pakistan & Remote AU)*  
+Leading AI-driven engineering squads, architecting microservice ecosystems in Laravel, NodeJS, and Go — driving innovation and operational excellence.
 
-#### 💻 Senior Software Engineer — DevStudio `2023 – 2025`  
-Built dynamic, secure, and user-centric applications with Laravel, Express, and Python. Led API design and system integrations.  
+#### 💻 **Senior Software Engineer** — *DevStudio*  
+*Jul 2024 – Apr 2025*  
+Created REST APIs, optimized backend architecture, integrated AI-based systems, and automated builds with Jenkins and AWS.  
 🏆 *Employee of the Year 2024*
 
-#### ⚙️ Laravel Developer — Vigorous Technologies `2021 – 2023`  
-Developed and optimized REST APIs, integrated frontend (Vue, Bootstrap), and deployed production builds on AWS.
+#### ⚙️ **Laravel Developer** — *Vigorous Technologies*  
+*Jan 2021 – Jul 2023*  
+Developed full-stack web solutions, optimized databases, and delivered high-quality production systems using PHP Laravel, Vue.js, and Bootstrap.
 
 ---
 
-### 🧩 Tech Stack
+### 🧩 Skills Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,express,vue,mysql,aws,jenkins,bash,git,html,css,bootstrap,js,docker,linux,nginx,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,express,vue,mysql,aws,jenkins,bash,docker,git,html,css,bootstrap,js,linux,nginx,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-### 🧾 Certifications
-| Certificate | Platform | Year |
-|--------------|-----------|------|
-| DevOps Project: CI/CD with GitLab, Jenkins & Laravel | Udemy | 2024 |
-| Angular Fundamentals | Pluralsight | 2025 |
-| Angular Reactive Forms | Pluralsight | 2025 |
+### 🏆 Achievements
+
+| 🏅 Award | 🏢 Organization | 📅 Year |
+|-----------|----------------|---------|
+| **Employee of the Year** | DevStudio | 2024 |
+| **Hackathon Innovation Participant** | Horizon Digital | 2025 |
+| **Top Contributor** | Horizon Digital Engineering Team | 2025 |
 
 ---
 
-### 🏆 Awards
-- 🥇 **Employee of the Year 2024** – *DevStudio*  
-  *Recognized for exceptional productivity, innovation, and technical excellence.*
+### 🎓 Education
+
+| 🎓 Degree | 🏛 Institution | 📆 Years |
+|-----------|----------------|----------|
+| Master’s in Computer Science | **Ghazi University, Dera Ghazi Khan** | 2020 – 2022 |
+| B.Com in Accounting & Commerce | **Bahauddin Zakariya University** | 2018 – 2020 |
+
+---
+
+### 📜 Certifications
+| 📘 Title | 🏫 Platform | 📅 Issued |
+|-----------|-------------|-----------|
+| DevOps Project: CI/CD with GitLab, Jenkins & Laravel | Udemy | Oct 2024 |
+| Angular Fundamentals | Pluralsight | Feb 2025 |
+| Angular Reactive Forms | Pluralsight | Mar 2025 |
 
 ---
 
 ### 💬 Recommendations
 
-> *“Massab is a brilliant Full-Stack Developer with a knack for solving complex problems. His passion and positivity make collaboration a joy.”*  
-> — **Zeeshan Suleman**, Founder, Tech Entrepreneur  
+> “Massab is a brilliant Full Stack Developer with a knack for solving complex problems. His passion for coding and innovative thinking shines through in every project.”  
+> — *Zeeshan Suleman, Founder & Tech Entrepreneur*
 
-> *“Massab’s deep understanding of full-stack systems makes him an invaluable asset. He consistently delivers high-quality, production-ready solutions.”*  
-> — **Abdul Wahab Aslam**, M.Sc. Computer Science  
+> “Massab’s technical proficiency in full-stack development makes him an invaluable asset. He consistently exceeds project requirements.”  
+> — *Abdul Wahab Aslam, M.Sc. Computer Science*
+
+> “A master of Laravel and NodeJS, Massab crafts robust, scalable web apps and fosters team excellence.”  
+> — *Abdullah, IoT Engineer, DevStudio*
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanmassab&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmassab&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanmassab&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmassab&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmassab&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmassab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧬 Modern Vision
+### 🧬 Design Philosophy
 
-> “I’m driven by curiosity, design precision, and an obsession with future-proof architecture.”
+> “I merge creativity with engineering precision.  
+> Every line of code, a step toward sustainable digital architecture.”
+
+**Special Interests:** Agentic AI • Cloud DevOps • Software Scalability • Team Leadership
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/massab-khan-backendengineer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hello@horizondigital.pk"><img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://horizondigital.pk/"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=internet-explorer&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/massab-khan-backendengineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hello@horizondigital.pk"><img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://horizondigital.pk/"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=internet-explorer&logoColor=black"/></a>
+  <a href="https://x.com/khanmassab"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
