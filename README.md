@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Massab Khan
 
-<!--
-**khanmassab/khanmassab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-stack developer | Open-source enthusiast | Tech explorer**
 
-Here are some ideas to get you started:
+I love building cool things with code, contributing to open-source, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![Massab's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanmassab&show_icons=true&theme=radical&include_all_commits=true)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanmassab&theme=radical)
+
+### 🧠 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmassab&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khanmassab&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🌐 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khanmassab)
+- 💻 [Portfolio](https://github.com/khanmassab)
+- 🐦 [Twitter / X](https://twitter.com/khanmassab)
+
+---
+
+⭐ **Fun fact:** I love solving real-world problems through clean, efficient code.
