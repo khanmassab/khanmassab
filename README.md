@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Massab
+# Hey there! I'm Massab 👋
 
 ### Staff Engineer / Technical Architect
 
@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://khanmassab.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massab725@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Architecture+%26+Distributed+Systems;Designing+Systems+That+Scale;Building+for+Performance+%26+Maintainability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Architecture+%26+Distributed+Systems;PHP+%7C+Python+%7C+Go+%7C+Node.js;Designing+Systems+That+Scale;Building+for+Performance+%26+Maintainability" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 🧠 **Staff Engineer / Technical Architect** at **Horizon Digital**
 
-🎓 M.Sc. in Computer Science
+🎓 M.Sc. in Computer Science — 🥈 **Silver Medalist** (Batch 2020-2022)
 
 🏗️ Specializing in backend architecture, microservices & distributed systems
 
@@ -39,6 +39,7 @@
 <br>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -140,10 +141,10 @@
 
 <div align="center">
 
-| 🏅 | 🚀 | 📈 | 🤝 |
-|:---:|:---:|:---:|:---:|
-| **Employee of the Year** | **Led Architecture** | **Improved Reliability** | **Trusted Partner** |
-| 2024 | Multiple Production Systems | Delivery Efficiency ↑ | Product & Leadership |
+| 🥈 | 🏅 | 🚀 | 📈 | 🤝 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Silver Medalist** | **Employee of the Year** | **Led Architecture** | **Improved Reliability** | **Trusted Partner** |
+| MCS Batch 2020-2022 | 2024 | Multiple Production Systems | Delivery Efficiency ↑ | Product & Leadership |
 
 </div>
 
