@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Massab Khan 👋
+# Hey there! I'm Massab
 
 ### Staff Engineer / Technical Architect
 
